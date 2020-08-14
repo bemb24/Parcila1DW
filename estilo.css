@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css?family=Lato");
+html,
+body {
+  height: 100%;
+  margin: 0;
+  font-family: Lato, sans-serif;
+  background-color:     #E1E2E1;  
+}
+header{
+background: #148514CC;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #2bb27e, #14cc2d);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #2bb27e, #14cc2d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */   
+}
+
+.card-header{
+background: #14cc2d;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #2bb27e, #14cc2d);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right,  #2bb27e, #14cc2d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */   
+color:white;
+}
+
